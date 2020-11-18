@@ -38,21 +38,21 @@ namespace test
           //  pinatas[0].Revolution += Form1_Revolution;
         }
 
-        //private void Form1_Revolution(object sender, EventArgs e)
-        //{
-        //    int revolutions = int.Parse(tsslRevolutions.Text);
-        //    revolutions++;
-        //    tsslRevolutions.Text = revolutions.ToString();
-        //}
+        /*private void Form1_Revolution(object sender, EventArgs e)
+        {
+            int revolutions = int.Parse(tsslRevolutions.Text);
+            revolutions++;
+            tsslRevolutions.Text = revolutions.ToString();
+        }
 
-        //private void timer_Tick(object sender, EventArgs e)
-        //{
-        //    foreach (Pinata pinata in pinatas)
-        //    {
-        //        pinata.Move();
-        //    }
-        //    this.Refresh();
-        //}
+        private void timer_Tick(object sender, EventArgs e)
+        {
+            foreach (Pinata pinata in pinatas)
+            {
+                pinata.Move();
+            }
+            this.Refresh();
+        } */
 
         int currentScore = 0;
         int highScore = 0;
