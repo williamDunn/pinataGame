@@ -1,5 +1,3 @@
-﻿//William Dunn - 275 - Assignment 9 / Pinata Game
-
 using System;
 using System.Collections.Generic;
 using System.Drawing;
